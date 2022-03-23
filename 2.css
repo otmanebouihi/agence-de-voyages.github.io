@@ -1,0 +1,22 @@
+ h1{
+    text-align: center;
+    color:yellow
+
+}
+h4{
+    text-align: center;
+}
+@media (max-width:1024px){
+    .col-sm-4 p-3{
+        width: 200px;
+
+    }
+    .card{
+        width:400px;
+    }
+
+    h1{
+        padding-top: 50px;
+        margin-right: 40px;
+    }
+}

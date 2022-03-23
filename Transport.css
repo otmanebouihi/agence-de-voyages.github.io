@@ -1,0 +1,30 @@
+p{
+    font-size: large;
+    font-size: 20px;
+    text-align: center;
+
+}
+img{
+    width: 430px;
+}
+
+@media (max-width:1024px){
+    img{
+        width:150px;
+    }
+    .container mt-3{
+        margin-left: 10px;
+    }
+    #ola{
+        margin-left: 10px;
+    }
+    table{
+        margin-left: 35px;
+    }
+    p{
+       font-size:large;
+       font-size: 20px;
+       text-align: center;
+    }
+
+}
